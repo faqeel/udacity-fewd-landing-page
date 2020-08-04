@@ -6,6 +6,7 @@ This project for Udacity's [Front End Web Developer Nanodegree Program](https://
 
 - [Introduction](#introduction)
 - [Requirements](#requirements)
+- [Live Preview](#live-preview)
 
 ## Introduction
 
@@ -25,3 +26,7 @@ This project requires to build a multi-section landing page, with a dynamically 
 2.  [x] Hide fixed navigation bar while not scrolling (it should still be present on page load)
 3.  [x] Add a scroll to top button on the page that’s only visible when the user scrolls below the fold of the page
 4.  [ ] Make sections collapsible
+
+## Live preview
+
+The project is published on GitHub Pages. [Click here](https://faqeel.github.io/udacity-fewd-landing-page/) to go to live preview.
